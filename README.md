@@ -6,9 +6,9 @@
 
 <br/>
 
-- [사이트 링크 바로가기](https://skifriend.shop/)
-- [노션 정보](https://power-bowler-c76.notion.site/8-13-10-0c3ad4dd39b34a2b8501e8bac3c63d19)
-- [시연 영상](https://www.youtube.com/watch?v=-xYttQl9TqA&feature=youtu.be&ab_channel=%EC%96%91%EC%84%B1%EC%9D%80)
+## [사이트 링크 바로가기](https://skifriend.shop/)
+## [노션 정보](https://power-bowler-c76.notion.site/8-13-10-0c3ad4dd39b34a2b8501e8bac3c63d19)
+## [시연 영상](https://www.youtube.com/watch?v=-xYttQl9TqA&feature=youtu.be&ab_channel=%EC%96%91%EC%84%B1%EC%9D%80)
 
 <br/>
 
