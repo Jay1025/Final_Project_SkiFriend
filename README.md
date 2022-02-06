@@ -56,7 +56,6 @@
   - redux-logger
   - immer
 - 배포
-  - github actions
   - aws s3(서비스 배포)
   - aws cloudfront(Https 적용)
 - 통신
@@ -65,7 +64,6 @@
 - 스타일
   - styled-component
 - PWA
-- Git Actions
 - 라이브러리 & 패키지
   - react-datepicker
   - react-swiper
